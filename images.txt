@@ -1,1 +1,4 @@
+elasticsearch:7.16.2
+apache/skywalking-oap-server:8.9.0
+apache/skywalking-ui:8.9.0
 xuxueli/xxl-job-admin:2.4.1
