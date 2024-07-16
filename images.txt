@@ -4,3 +4,5 @@ apache/skywalking-ui:8.9.0
 xuxueli/xxl-job-admin:2.4.1
 bitnami/prometheus:2.47.2
 grafana/grafana:10.2.0
+apache/skywalking-oap-server:10.0.1
+apache/skywalking-ui:10.0.1
