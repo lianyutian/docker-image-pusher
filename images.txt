@@ -8,3 +8,5 @@ apache/skywalking-oap-server:10.0.1
 apache/skywalking-ui:10.0.1
 logstash:7.17.14
 kibana:7.17.14
+apache/skywalking-oap-server:9.7.0
+apache/skywalking-ui:9.7.0
