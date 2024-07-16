@@ -2,3 +2,5 @@ elasticsearch:7.16.2
 apache/skywalking-oap-server:8.9.0
 apache/skywalking-ui:8.9.0
 xuxueli/xxl-job-admin:2.4.1
+bitnami/prometheus:2.47.2
+grafana/grafana:10.2.0
