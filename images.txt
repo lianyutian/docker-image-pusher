@@ -10,3 +10,4 @@ logstash:7.17.14
 kibana:7.17.14
 apache/skywalking-oap-server:9.7.0
 apache/skywalking-ui:9.7.0
+gitlab/gitlab-ce
